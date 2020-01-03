@@ -158,7 +158,8 @@ public class Database implements FileRepsoitory
    System.out.println("updated sucessfully");
 
 } catch (SQLException e) {
-    e.printStackTrace(); }
+    e.printStackTrace();
+   }
 
 
     }
